@@ -1,0 +1,103 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDEs and editors
+*.idea
+*.swp
+*.swo
+*~
+
+# macOS
+*.DS_Store
+
+# Linux
+*~
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.flutter/
+.ios/
+.packages
+.pub-cache/
+.pub/
+.buildlog/
+.directory
+
+# Built application files
+*.apk
+*.aar
+*.app
+*.app.dSYM.zip
+*.app.dSYM
+*.deb
+*.dmg
+*.ipa
+*.msi
+*.msm
+*.msp
+*.xcodeproj
+*.xcodeworkspace
+
+# Generated files from build system
+**/android/app/build/
+**/android/.gradle/
+**/android/.idea
+**/android/app/.cxx/
+**/android/app/gradle/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+
+# Firebase & Google Services
+google-services.json
+firestore.indexes.json
+firestore.rules
+
+# Ignore environment variable files
+.env
+
+# JetBrains Rider
+.idea/
+*.sln
+*.csproj
+*.suo
+*.vscode
+*.iml
+
+# Log files
+*.log
+
+# Intermediate files
+intermediate/
+
+# Cache files
+**/node_modules/
+**/dist/
+
+# Binaries
+**/*.dll
+**/*.so
+
+# Testing
+/test/
+
+# Flutter tool-specific
+.flutter-plugins-dependencies
+.idea/
+.project
+.settings/
+*.iml
+*.ipr
+*.iws
+.local
+.packages

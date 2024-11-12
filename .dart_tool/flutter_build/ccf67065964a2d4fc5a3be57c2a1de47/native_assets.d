@@ -1,0 +1,1 @@
+ C:\\Users\\Mzu\\Documents\\School\\projects\\transitease_app\\.dart_tool\\flutter_build\\ccf67065964a2d4fc5a3be57c2a1de47\\native_assets.yaml: 
