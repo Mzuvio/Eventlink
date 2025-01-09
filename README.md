@@ -18,8 +18,8 @@ Community-Centric: Encourages participation by allowing users to submit their ow
 **Onboarding Screen**
 ![Screenshot_20241114-092209](https://github.com/user-attachments/assets/3d89c8d7-3a1f-4299-8baf-b8c1654740a6)
 
-**Home Screen**
 ![Home](https://github.com/user-attachments/assets/d70fc4b2-7aff-47fb-8ea3-20fcbedc587e)
+**Home Screen**
 **Event Detail Screen**
 ![Event detail](https://github.com/user-attachments/assets/bae58bf6-9abb-42cb-a3a7-2239a2b7e35a)
 **Create Event**
