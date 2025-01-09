@@ -13,8 +13,14 @@ Stay Notified: Users receive real-time notifications for newly posted events and
 Community-Centric: Encourages participation by allowing users to submit their own events.
 
 
-#![Screenshot_20241114-092201](https://github.com/user-attachments/assets/99d0994d-4b4f-4a62-9b16-cf62ae5975dc)
+![Screenshot_20241114-092201](https://github.com/user-attachments/assets/99d0994d-4b4f-4a62-9b16-cf62ae5975dc)
 ![Screenshot_20241114-092209](https://github.com/user-attachments/assets/3d89c8d7-3a1f-4299-8baf-b8c1654740a6)
+![Home](https://github.com/user-attachments/assets/d70fc4b2-7aff-47fb-8ea3-20fcbedc587e)
+![Event detail](https://github.com/user-attachments/assets/bae58bf6-9abb-42cb-a3a7-2239a2b7e35a)
+![Create event](https://github.com/user-attachments/assets/17b51d08-0e62-4873-a3e2-47f099d22eef)
+![User profile](https://github.com/user-attachments/assets/b5deee56-c629-47fb-9da9-b223d647592a)
+
+
 Tech Stack 🛠️
 
 Flutter: Cross-platform app development framework for smooth user experiences on Android and iOS.
